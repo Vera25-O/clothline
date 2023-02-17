@@ -7,12 +7,13 @@ import line6 from "./photos/line6.jpeg";
 
 function Home() {
   return <div className="home">
-    <img src={line1} alt="" className="homp"/>
-    <img src={line2} alt="" className="homp"/>
-    <img src={line3} alt="" className="homp"/>
-    <img src={line4} alt="" className="homp"/>
+    <h1>HOLLA</h1>
+    <img src={line1} alt="" className="homp1"/>
+    <img src={line2} alt="" className="homp2"/>
+    <img src={line3} alt="" className="homp3"/>
+    <img src={line4} alt="" className="homp4"/>
     <img src={line5} alt="" className="homp"/>
-    <img src={line6} alt="" className="homp"/>
+    <img src={line6} alt="" className="homp5"/>
     {/* <img src={line1} alt="" className="homp"/>
     <img src={line1} alt="" className="homp"/> */}
   </div>;
