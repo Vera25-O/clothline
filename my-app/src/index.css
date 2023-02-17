@@ -1,4 +1,38 @@
-.home{
+/* .home{
   height: 200vh;
   width: 100%;
+} */
+.homp1{
+  height: 150vh;
+  width: 60%;
 }
+.homp2{
+  height: 100vh;
+  width: 50%;
+}
+.homp3{
+  background-size: auto;
+  height: 70vh;
+  width: 50%;
+  float: right;
+}
+.homp4{
+  height: 110vh;
+  width: 50%;
+  float: left;
+}
+.homp5{
+  height: 100vh;
+  width: 50%;
+  float: right;
+}
+
+
+
+
+
+.homp4{
+  height: 200vh;
+  width: 50%;
+}
+
