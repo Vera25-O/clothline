@@ -11,7 +11,6 @@ function Home() {
   return <div className="home">
     
     <Navbar/>
-    <h1>GALLERY</h1>
     <img src={line1} alt="" className="homp1"/>
     <img src={line2} alt="" className="homp2"/>
     <img src={line3} alt="" className="homp3"/>
