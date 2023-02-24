@@ -48,6 +48,10 @@ h7{
   font-size: 2vw;
   color: black;
 }
+.navtwo{
+  background-color: black;
+  width: 100%;
+}
 
 .inbar{
   /* background-color: red; */
