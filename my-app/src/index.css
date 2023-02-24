@@ -127,8 +127,21 @@ h5 {
   margin: 0.9vh;
   margin-right: 2.5vh;
   padding: 20px;
-  font-size: 30px;
   height: 50vh;
   width: 20%;
   float: right;
+}
+/* blog css */
+.flex-container {
+  
+  background-color: DodgerBlue;
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  width: 20%;
+  float: right;
+  padding: 20px;
+  font-size: 30px;
 }
