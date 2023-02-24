@@ -10,8 +10,9 @@ function Home() {
   return (
     <div className="home">
       <Navbar />
-      <Inbar/>
+      
       <img src={line1} alt="" className="homp1" />
+      <Inbar/>
       <img src={line2} alt="" className="homp2" />
       <img src={line3} alt="" className="homp3" />
       <img src={line4} alt="" className="homp4" />

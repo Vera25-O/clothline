@@ -38,6 +38,14 @@ background-color: white;
   
 }
 
+.inbar{
+  background-color: red;
+  width: 40%;
+  float: right;
+  height: 100vh;
+
+}
+
 
 
 
