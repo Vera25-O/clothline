@@ -4,7 +4,7 @@ import React from "react";
 function Inbar() {
   return (
     <nav className="inbar">
-      <NavLink to="/" exact="true">
+      <NavLink to="/fashion" exact="true">
         <h7>Explore Fashion</h7>
       </NavLink>
     </nav>

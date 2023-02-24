@@ -7,6 +7,7 @@ function App() {
         <Routes> 
      <Route exact path="/" element={<Home/>} />
      <Route exact path="/blogs" element={<Blog/>} />
+     <Route exact path="/fashion" element={<Fashion/>} />
      </Routes> 
     </div>
   );
