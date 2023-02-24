@@ -1,4 +1,5 @@
 import Home from "./Components/Home";
+import Fashion from "./Components/Fashion"
 import Blog from "./Components/Blog";
 import { Routes,Route } from "react-router-dom";
 function App() {
