@@ -45,8 +45,9 @@
   top: 0%;
 }
 h7 {
+  display: inline-block;
   margin-left: 5%;
-  padding-top: 10vh;
+  padding-top: 3vh;
   font-size: 2vw;
   color: black;
 }
