@@ -1,7 +1,7 @@
 function Navtwo() {
     return(
 <div className="navtwo">
-<p>FREE SHIPPINGOn all orders over $100</p>
+<p className="shipping">FREE SHIPPING On all orders over $100</p>
 </div>
     )
 };

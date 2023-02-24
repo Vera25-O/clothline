@@ -37,11 +37,11 @@ background-color: white;
   overflow: hidden;
   height: 10vh;
   width: 100%;
-  box-shadow: 1px 1px 2px grey;
+  box-shadow: 1px 1px 3px grey;
 }
 .navbar.active{
-  background: linear-gradient(90deg,rgb(248, 245, 248)0%,rgb(248, 245, 248)100%);
-  
+  background: linear-gradient(0deg,rgb(248, 245, 248)0%,rgb(248, 245, 248)0%);
+  top: 0%;
 }
 h7{
   margin-left:30%;
@@ -54,8 +54,12 @@ h7{
   background-color:black;
   width:100%;
   height: 6vh;
-  margin-top: 10vh;
+  margin-top: 10.1vh;
   color: white;
+}
+.shipping{
+  text-align: center;
+  margin-top: 7vh;
 }
 .navone{
   
@@ -103,7 +107,20 @@ h5{
 }
 
 
+/* fashion css */
+.flex-container {
+  background-color: rgb(233, 208, 212);
+}
 
+.flex-container > div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+  height: 40vh;
+  width: 20%;
+  float: right;
+}
 
 
 
