@@ -34,24 +34,48 @@ background-color: white;
   width: 100%;
 }
 .navbar.active{
-  background: linear-gradient(90deg, rgb(255,255,255)0%, rgb(255,255,255)100%);
+  background: linear-gradient(90deg, rgb(232, 184, 235)0%,rgb(232, 184, 235)100%);
   
+}
+h7{
+  margin-left: 30%;
+  margin-top: -5vh;
+  font-size: 2vw;
+  color: black;
 }
 
 .inbar{
-  background-color: red;
+  /* background-color: red; */
   width: 40%;
   float: right;
   height: 100vh;
 
 }
 
-
-
-
-
-.homp4{
-  height: 200vh;
-  width: 50%;
+.arrow {
+  border: solid black;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
 }
+
+.right {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
+
+
+h5{
+  margin-top: 70vh;
+  margin-left:30% ;
+  font-size: 2vw;
+  color: black;
+}
+
+
+
+
+
+
+
 
