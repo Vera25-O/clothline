@@ -1,7 +1,6 @@
-.App{
-  height: 450vh;
-  overflow: hidden;
-}
+
+
+/* homecss */
 .home{
   margin-top: 4vh;
   overflow: hidden;
@@ -95,7 +94,7 @@ h5{
 }
 
 .footer {
-  box-shadow: 3px 3px 2px 4px grey;
+  box-shadow: 1px 1px 1px 1px grey;
   margin-top: 10vh;
   height: 83vh;
   opacity: 0.1;
@@ -108,18 +107,28 @@ h5{
 
 
 /* fashion css */
+.fashion{
+  height: 500vh;
+  background-color: aqua;
+}
 .flex-container {
+  margin-top: 20vh;
   background-color: rgb(233, 208, 212);
 }
 
+
+
+
+
 .flex-container > div {
   background-color: #f1f1f1;
-  margin: 10px;
+  margin: 0.9vh;
+  margin-right: 2.5vh;
   padding: 20px;
   font-size: 30px;
-  height: 40vh;
+  height: 50vh;
   width: 20%;
-  float: right;
+   float: right;
 }
 
 
