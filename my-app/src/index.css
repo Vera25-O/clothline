@@ -40,7 +40,7 @@ background-color: white;
   box-shadow: 1px 1px 2px grey;
 }
 .navbar.active{
-  background: linear-gradient(90deg, rgb(232, 184, 235)0%,rgb(232, 184, 235)100%);
+  background: linear-gradient(90deg,rgb(248, 245, 248)0%,rgb(248, 245, 248)100%);
   
 }
 h7{

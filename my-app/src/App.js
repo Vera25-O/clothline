@@ -5,9 +5,11 @@ import Fashion from "./Components/Fashion"
 import Blog from "./Components/Blog";
 import { Routes,Route } from "react-router-dom";
 import Navtwo from "./Components/Navtwo";
+import Navone from "./Components/Navone";
 function App() {
   return (
     <div className="App">
+      <Navone/>
       <Navbar/>
       <Navtwo/>
         <Routes> 
