@@ -1,76 +1,76 @@
-
-
 /* homecss */
-.home{
+.home {
   margin-top: 4vh;
   overflow: hidden;
-background-color: white;
+  background-color: white;
 }
-.homp1{
+.homp1 {
   height: 150vh;
   width: 60%;
 }
-.homp2{
+.homp2 {
   height: 100vh;
   width: 50%;
 }
-.homp3{
+.homp3 {
   background-size: auto;
   height: 70vh;
   width: 50%;
   float: right;
 }
-.homp4{
+.homp4 {
   height: 110vh;
   width: 50%;
   float: left;
 }
-.homp5{
+.homp5 {
   height: 100vh;
   width: 50%;
   float: right;
 }
 
-.navbar{
+.navbar {
   position: fixed;
   overflow: hidden;
   height: 10vh;
   width: 100%;
   box-shadow: 1px 1px 3px grey;
 }
-.navbar.active{
-  background: linear-gradient(0deg,rgb(248, 245, 248)0%,rgb(248, 245, 248)0%);
+.navbar.active {
+  background: linear-gradient(
+    0deg,
+    rgb(248, 245, 248) 0%,
+    rgb(248, 245, 248) 0%
+  );
   top: 0%;
 }
-h7{
-  margin-left:30%;
-  margin-top:20vh;
+h7 {
+  margin-left: 30%;
+  margin-top: 20vh;
   font-size: 2vw;
   color: black;
 }
-.navtwo{
+.navtwo {
   align-items: center;
-  background-color:black;
-  width:100%;
+  background-color: black;
+  width: 100%;
   height: 6vh;
   margin-top: 10.1vh;
   color: white;
 }
-.shipping{
+.shipping {
   text-align: center;
   margin-top: 7vh;
 }
-.navone{
-  
-  width:100%;
+.navone {
+  width: 100%;
   height: 6vh;
 }
-.inbar{
+.inbar {
   /* background-color: red; */
   width: 40%;
   float: right;
   height: 100vh;
-
 }
 
 .arrow {
@@ -85,53 +85,47 @@ h7{
   -webkit-transform: rotate(-45deg);
 }
 
-
-h5{
+h5 {
   margin-top: 70vh;
-  margin-left:30% ;
+  margin-left: 30%;
   font-size: 2vw;
   color: black;
 }
-
+/* footer css */
 .footer {
-  box-shadow: 1px 1px 1px 1px grey;
-  margin-top: 10vh;
+  box-shadow: 1px 1px 3px grey;
+  margin-top: 20vh;
   height: 83vh;
   opacity: 0.1;
   overflow: hidden;
   bottom: 0;
   opacity: 1;
   width: 100%;
-  
 }
-
 
 /* fashion css */
-.fashion{
-  height: 500vh;
-  background-color: aqua;
+.fashion {
+  
+  width: 100%;
 }
-.flex-container {
-  margin-top: 20vh;
-  background-color: rgb(233, 208, 212);
+.shops{
+  text-align: center;
+  margin-top: 5vh;
+}
+.container {
+  margin-top: 10vh;
+  background-color:aqua;
+  margin-bottom: 10vh;
 }
 
 
-
-
-
-.flex-container > div {
-  background-color: #f1f1f1;
+.container > div {
+  background-color: rgb(215, 210, 210);
   margin: 0.9vh;
   margin-right: 2.5vh;
   padding: 20px;
   font-size: 30px;
   height: 50vh;
   width: 20%;
-   float: right;
+  float: right;
 }
-
-
-
-
-
