@@ -1,3 +1,7 @@
+.App{
+  height: 450vh;
+  overflow: hidden;
+}
 .home{
   overflow: hidden;
 background-color: white;
@@ -32,14 +36,15 @@ background-color: white;
   overflow: hidden;
   height: 10vh;
   width: 100%;
+  box-shadow: 1px 1px 2px grey;
 }
 .navbar.active{
   background: linear-gradient(90deg, rgb(232, 184, 235)0%,rgb(232, 184, 235)100%);
   
 }
 h7{
-  margin-left: 30%;
-  margin-top: -5vh;
+  margin-left:30%;
+  margin-top:20vh;
   font-size: 2vw;
   color: black;
 }
@@ -70,6 +75,21 @@ h5{
   margin-left:30% ;
   font-size: 2vw;
   color: black;
+}
+href{
+  background-color: aqua;
+}
+.footer {
+  /* background-color: aquamarine; */
+  box-shadow: 3px 3px 2px 4px grey;
+  margin-top: 10vh;
+  height: 83vh;
+  opacity: 0.1;
+  overflow: hidden;
+  bottom: 0;
+  opacity: 1;
+  width: 100%;
+  
 }
 
 
