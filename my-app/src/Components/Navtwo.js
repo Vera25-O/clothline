@@ -1,6 +1,6 @@
 function Navtwo() {
     return(
-<div classname="navtwo">
+<div className="navtwo">
 <p>FREE SHIPPINGOn all orders over $100</p>
 </div>
     )

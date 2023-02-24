@@ -3,6 +3,7 @@
   overflow: hidden;
 }
 .home{
+  margin-top: 4vh;
   overflow: hidden;
 background-color: white;
 }
@@ -49,10 +50,18 @@ h7{
   color: black;
 }
 .navtwo{
-  background-color: black;
-  width: 100%;
+  align-items: center;
+  background-color:black;
+  width:100%;
+  height: 6vh;
+  margin-top: 10vh;
+  color: white;
 }
-
+.navone{
+  
+  width:100%;
+  height: 6vh;
+}
 .inbar{
   /* background-color: red; */
   width: 40%;
@@ -80,11 +89,8 @@ h5{
   font-size: 2vw;
   color: black;
 }
-href{
-  background-color: aqua;
-}
+
 .footer {
-  /* background-color: aquamarine; */
   box-shadow: 3px 3px 2px 4px grey;
   margin-top: 10vh;
   height: 83vh;
