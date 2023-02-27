@@ -135,7 +135,7 @@ h5 {
 }
 /* blog css */
 .flex-container {
-  height: 70vh;
+  height: 50vh;
   margin-top: 10vh;
   margin-bottom: 10vh;
 }
@@ -151,6 +151,12 @@ h5 {
   float: right;
 }
 .blogs{
+  text-align: center;
+  margin-top: 5vh;
+}
+
+/* trendy css */
+.trending{
   text-align: center;
   margin-top: 5vh;
 }

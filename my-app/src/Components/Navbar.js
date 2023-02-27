@@ -27,6 +27,9 @@ function Navbar() {
       <NavLink to="/blogs" exact="true">
         <h7>Blogs</h7>
       </NavLink>
+      <NavLink to="/fashion" exact="true">
+        <h7>Sales</h7>
+      </NavLink>
     </nav>
   );
 }
