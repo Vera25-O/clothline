@@ -116,32 +116,37 @@ h5 {
   margin-top: 5vh;
 }
 .container {
+  height: 70vh;
   margin-top: 10vh;
   margin-bottom: 10vh;
+
 }
 
 
 .container > div {
   background-color: rgb(215, 210, 210);
   margin: 0.9vh;
-  margin-right: 5vh;
+  margin-right: 6vh;
   padding: 10px;
   height: 50vh;
   width: 26%;
-  min-width: 40vh;
+  min-width: 39vh;
   float: right;
 }
 /* blog css */
 .flex-container {
-  
-  background-color: DodgerBlue;
+  height: 70vh;
+  margin-top: 10vh;
+  margin-bottom: 10vh;
 }
 
 .flex-container > div {
-  background-color: #f1f1f1;
-  margin: 10px;
-  width: 25%;
+  background-color: rgb(215, 210, 210);
+  margin: 0.9vh;
+  margin-right: 6vh;
+  padding: 10px;
+  height: 50vh;
+  width: 26%;
+  min-width: 39vh;
   float: right;
-  padding: 20px;
-  font-size: 30px;
 }
