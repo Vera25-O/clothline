@@ -6,6 +6,7 @@ import Blog from "./Components/Blog";
 import { Routes,Route } from "react-router-dom";
 import Navtwo from "./Components/Navtwo";
 import Navone from "./Components/Navone";
+import Trendy from "./Components/Trendy";
 function App() {
   return (
     <div className="App">
@@ -15,7 +16,7 @@ function App() {
         <Routes> 
      <Route exact path="/" element={<Home/>} />
      <Route exact path="/blogs" element={<Blog/>} />
-     <Route exact path="/fashion" element={<Fashion/>} />
+     <Route exact path="/trendy" element={<Trendy/>} />
      </Routes> 
      <Footer/>
     </div>
