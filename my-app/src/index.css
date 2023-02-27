@@ -116,9 +116,7 @@ h5 {
   margin-top: 5vh;
 }
 .container {
-  display: flex;
   margin-top: 10vh;
-  background-color:aqua;
   margin-bottom: 10vh;
 }
 
@@ -130,7 +128,7 @@ h5 {
   padding: 20px;
   height: 50vh;
   width: 30%;
-  
+  float: right;
 }
 /* blog css */
 .flex-container {
