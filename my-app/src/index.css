@@ -124,10 +124,11 @@ h5 {
 .container > div {
   background-color: rgb(215, 210, 210);
   margin: 0.9vh;
-  margin-right: 2.5vh;
-  padding: 20px;
+  margin-right: 5vh;
+  padding: 10px;
   height: 50vh;
-  width: 30%;
+  width: 26%;
+  min-width: 40vh;
   float: right;
 }
 /* blog css */
@@ -139,7 +140,7 @@ h5 {
 .flex-container > div {
   background-color: #f1f1f1;
   margin: 10px;
-  width: 20%;
+  width: 25%;
   float: right;
   padding: 20px;
   font-size: 30px;
