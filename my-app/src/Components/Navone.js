@@ -1,8 +1,13 @@
+import icon1 from "./photos/icon1.png";
+import icon2 from "./photos/icon2.png";
 function Navone()
 {
     return(
 <div className="navone">
-<image src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU8Iisdd7RFZYlklKuZS1ggYQPybAIEGOrzg&usqp=CAU" alt="icon"/>
+<img src={icon1} alt="facebook" className="icon1" />
+<img src={icon2} alt="instagram" className="icon2" />
+    
+    
 </div>
     )
 }

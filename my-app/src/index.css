@@ -81,6 +81,15 @@ h7 {
   width: 100%;
   height: 6vh;
 }
+.icon1{
+  margin-bottom:3vh;
+  float: right;
+}
+.icon2{
+  margin-left: 52%;
+  float: right;
+  margin-bottom:3vh;
+}
 /* inbarcss */
 .inbar {
   width: 40%;
