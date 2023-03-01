@@ -1,5 +1,6 @@
 import { NavLink } from "react-router-dom";
 import React from "react";
+import icon3 from "./photos/icon3.png";
 import { useEffect, useState } from "react";
 
 function Navbar() {
@@ -30,7 +31,9 @@ function Navbar() {
       <NavLink to="/fashion" exact="true">
         <h7>Sales</h7>
       </NavLink>
+      <img src={icon3} alt="whatsapp" className="icon3" />
     </nav>
+    
   );
 }
 export default Navbar;
