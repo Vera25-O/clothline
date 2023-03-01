@@ -1,6 +1,5 @@
 import { NavLink } from "react-router-dom";
 import React from "react";
-import logo from "./photos/logo.png";
 import { useEffect, useState } from "react";
 
 function Navbar() {
@@ -23,7 +22,7 @@ function Navbar() {
   return (
     <nav className={navbar ? "navbar active" : "navbar"}>
       <NavLink to="/" exact="true">
-        <h7>Home</h7>
+        <h7 className="logo">ThriFThUB.co</h7>
       </NavLink>
       <NavLink to="/blogs" exact="true">
         <h7>Blogs</h7>

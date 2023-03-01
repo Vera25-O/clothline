@@ -36,6 +36,7 @@
   width: 100%;
   box-shadow: 1px 1px 3px grey;
 }
+
 .navbar.active {
   background: linear-gradient(
     0deg,
@@ -43,6 +44,13 @@
     rgb(248, 245, 248) 0%
   );
   top: 0%;
+}
+@font-face {
+  font-family:"Sofia" ;
+  src: url(https://fonts.googleapis.com/css?family=Sofia);
+}
+.logo{
+  font-family:"Sofia", sans-serif;
 }
 h7 {
   display: inline-block;
