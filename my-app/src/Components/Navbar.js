@@ -28,6 +28,9 @@ function Navbar() {
       <NavLink to="/blogs" exact="true">
         <h7>Blogs</h7>
       </NavLink>
+      <NavLink to="/trendy" exact="true">
+        <h7>Trending Wear</h7>
+      </NavLink>
       <NavLink to="/fashion" exact="true">
         <h7>Sales</h7>
       </NavLink>
