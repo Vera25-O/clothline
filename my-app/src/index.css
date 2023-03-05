@@ -118,13 +118,18 @@ h5 {
 /* footer css */
 .footer {
   box-shadow: 1px 1px 3px grey;
+  background-color: rgb(205, 168, 168);
   margin-top: 20vh;
-  height: 83vh;
-  opacity: 0.1;
+  height: 75vh;
+  opacity: 1;
   overflow: hidden;
   bottom: 0;
   opacity: 1;
   width: 100%;
+}
+.cright{
+  margin-top: 70vh;
+  text-align: center;
 }
 
 /* fashion css */
