@@ -131,7 +131,7 @@ h5 {
   text-align: center;
 }
 .iconic{
-  margin-left: 70%;
+  margin-left: 69%;
   margin-top: 2vh;
 }
 h4{
@@ -150,18 +150,20 @@ h4{
 .icons{
   margin-left: 5%;
   margin-top: 2vh;
+  
 }
 hr{
   background-color: black;
   margin-top: 30vh;
   height: 0.2vh;
-  width: 50%;
+  width: 60%;
 }
 .nav{
   float: left;
   height: 40vh;
   width: 10%;
-  background-color: aqua;
+  margin-top: 15vh;
+  margin-left: 2%;
 }
 .fp{
   text-align: center;
