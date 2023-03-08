@@ -34,10 +34,9 @@ function Navbar() {
       <NavLink to="/fashion" exact="true">
         <h7>Sales</h7>
         </NavLink>
-      <NavLink to="/searchBar" exact="true">
-        <h7>Search</h7>
-      </NavLink>
+      
       <img src={icon3} alt="whatsapp" className="icon3" />
+      <p className="no">+254748438571</p>
     </nav>
     
   );

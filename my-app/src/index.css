@@ -46,8 +46,13 @@
   top: 0%;
 }
 .icon3{
-  margin-left: 40%;
-  margin-top: 5vh;
+  margin-left: 30%;
+  margin-top: 6vh;
+}
+.no{
+  margin-right: 2%;
+  float: right;
+  margin-top: 7vh;
 }
 /* @font-face {
   font-family:"Sofia", sans-serif;
@@ -62,6 +67,9 @@ h7 {
   padding-top: 3vh;
   font-size: 2vw;
   color: black;
+}
+h7:hover {
+  text-decoration: underline;
 }
 /* navtwocss */
 .navtwo {
@@ -167,6 +175,8 @@ hr{
 }
 .fp{
   text-align: center;
+  display: inline-block;
+  color: black;
 }
 /* fashion css */
 .fashion {

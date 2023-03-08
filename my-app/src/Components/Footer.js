@@ -12,7 +12,7 @@ function Footer() {
         <nav >
           <NavLink to="/searchBar" exact="true">
             <p className="fp">Search</p>
-          </NavLink>
+          </NavLink><br></br>
           <NavLink to="/about" exact="true">
             <p className="fp">About Us</p>
           </NavLink>
