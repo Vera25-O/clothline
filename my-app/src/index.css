@@ -155,7 +155,16 @@ hr{
   background-color: black;
   margin-top: 30vh;
   height: 0.2vh;
-  width: 60%;
+  width: 50%;
+}
+.nav{
+  float: left;
+  height: 40vh;
+  width: 10%;
+  background-color: aqua;
+}
+.fp{
+  text-align: center;
 }
 /* fashion css */
 .fashion {

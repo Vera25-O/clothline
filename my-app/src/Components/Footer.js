@@ -8,11 +8,27 @@ function Footer() {
 
     
       <div className="footer">
-        <nav>
-          <NavLink>
-            <p></p>
+        <div className="nav">
+        <nav >
+          <NavLink to="/searchBar" exact="true">
+            <p className="fp">Search</p>
           </NavLink>
+          <NavLink to="/about" exact="true">
+            <p className="fp">About Us</p>
+          </NavLink>
+          <NavLink to="/terms" exact="true">
+            <p className="fp">Terms of Use</p>
+          </NavLink>
+          <NavLink to="/refund" exact="true">
+            <p className="fp">Refund policy</p>
+          </NavLink>
+          <NavLink to="/privacy" exact="true">
+            <p className="fp">Privacy & Security</p>
+          </NavLink>
+          
+          
         </nav>
+        </div>
         <div className="location">
         <h4>LOCATION</h4>
         <p className="lp">Online Thrift store<br></br>

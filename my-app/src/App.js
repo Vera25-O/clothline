@@ -10,8 +10,8 @@ import Trendy from "./Components/Trendy";
 import SearchBar from "./Components/SearchBar";
 import Refund from "./Components/Refund"
 import About from "./Components/About"
-import About from "./Components/Terms"
-import About from "./Components/Privacy"
+import Terms from "./Components/Terms"
+import Privacy from "./Components/Privacy"
 function App() {
   return (
     <div className="App">
