@@ -4,7 +4,15 @@ import icon2 from "./photos/icon2.png";
 import { NavLink } from "react-router-dom";
 function Footer() {
   return (
+    
+
+    
       <div className="footer">
+        <nav>
+          <NavLink>
+            <p></p>
+          </NavLink>
+        </nav>
         <div className="location">
         <h4>LOCATION</h4>
         <p className="lp">Online Thrift store<br></br>

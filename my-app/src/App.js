@@ -8,6 +8,7 @@ import Navtwo from "./Components/Navtwo";
 import Navone from "./Components/Navone";
 import Trendy from "./Components/Trendy";
 import SearchBar from "./Components/SearchBar";
+import Refund from "./Components/Refund"
 function App() {
   return (
     <div className="App">
@@ -20,6 +21,10 @@ function App() {
      <Route exact path="/trendy" element={<Trendy/>} />
      <Route exact path="/fashion" element={<Fashion/>} />
      <Route exact path="/searchBar" element={<SearchBar/>}/>
+     <Route exact path="/about" element={<About/>} />
+     <Route exact path="/privacy" element={<Privacy/>} />
+     <Route exact path="/terms" element={<Terms/>} />
+     <Route exact path="/refund" element={<Refund/>} />
     
      </Routes> 
      <Footer/>
