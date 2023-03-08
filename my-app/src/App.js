@@ -7,6 +7,7 @@ import { Routes,Route } from "react-router-dom";
 import Navtwo from "./Components/Navtwo";
 import Navone from "./Components/Navone";
 import Trendy from "./Components/Trendy";
+import SearchBar from "./Components/SearchBar";
 function App() {
   return (
     <div className="App">
@@ -18,6 +19,7 @@ function App() {
      <Route exact path="/blogs" element={<Blog/>} />
      <Route exact path="/trendy" element={<Trendy/>} />
      <Route exact path="/fashion" element={<Fashion/>} />
+     <Route exact path="/searchBar" element={<SearchBar/>}/>
     
      </Routes> 
      <Footer/>

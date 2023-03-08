@@ -128,10 +128,15 @@ h5 {
   width: 100%;
 }
 .cright{
-  margin-top: 70vh;
+  margin-top: 40vh;
   text-align: center;
 }
-
+hr{
+  background-color: black;
+  margin-top: 30vh;
+  height: 0.2vh;
+  width: 60%;
+}
 /* fashion css */
 .fashion {
   
