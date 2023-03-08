@@ -1,6 +1,7 @@
 import icon1 from "./photos/icon1.png";
 import icon2 from "./photos/icon2.png";
 
+import { NavLink } from "react-router-dom";
 function Footer() {
   return (
       <div className="footer">
