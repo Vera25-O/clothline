@@ -9,6 +9,9 @@ import Navone from "./Components/Navone";
 import Trendy from "./Components/Trendy";
 import SearchBar from "./Components/SearchBar";
 import Refund from "./Components/Refund"
+import About from "./Components/About"
+import About from "./Components/Terms"
+import About from "./Components/Privacy"
 function App() {
   return (
     <div className="App">
