@@ -118,7 +118,6 @@ h5 {
 /* footer css */
 .footer {
   box-shadow: 1px 1px 3px grey;
-  background-color: rgb(205, 168, 168);
   margin-top: 20vh;
   height: 75vh;
   opacity: 1;
@@ -134,6 +133,19 @@ h5 {
 .iconic{
   margin-left: 70%;
   margin-top: 2vh;
+}
+h4{
+  text-align: center;
+}
+.lp{
+  text-align: center;
+}
+.location{
+  
+  width: 13%;
+  float: right;
+  margin-top: 9vh;
+  margin-right: 1vh;
 }
 .icons{
   margin-left: 5%;
