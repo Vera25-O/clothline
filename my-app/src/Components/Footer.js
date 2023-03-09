@@ -48,8 +48,10 @@ function Footer() {
 
 
         <div className="iconic">
-        <img src={icon1} alt="facebook" className="icons" />
-<img src={icon2} alt="instagram" className="icons" />
+        <a href="https://www.facebook.com/home.php" target={"_blank"}><img src={icon1} alt="facebook" className="icons" /></a>
+<a href="https://www.instagram.com/?utm_source=pwa_homescreen" target={"_blank"}><img src={icon2} alt="instagram" className="icons" /></a>
+    
+        
 </div>
       <p className="cright">© 2023 veraonuko. All rights reserved.</p>
     </div>
