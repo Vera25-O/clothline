@@ -131,6 +131,7 @@ h5 {
   margin-left: 30%;
   font-size: 2vw;
   color: black;
+  display: inline-block;
 }
 /* footer css */
 .footer {
