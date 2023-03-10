@@ -16,8 +16,22 @@ function About() {
         ThriFThUB focuses on latest trends and styles. We also give close
         attention to the fabrics and comfort that comes with it.<br></br>
         Customer experience and satisfaction is our greatest priority<br></br>
-        We advice on fashion sense and help you the clothe that best fits you
+        We advice on fashion sense and help you choose the clothe that best fits you
         <br></br>
+      </p>
+      <h1>PRIVACY AND POLICY</h1>
+      <p className="abtp">
+      <p className="underline">Security<br></br></p>
+All sensitive data including, <br></br>
+personal information, and order information,<br></br> 
+is transmitted securely between your computer and our servers.<br></br> 
+This ensures that the data cannot be viewed or copied in the transmission process by any other third parties. <br></br>
+ 
+
+<p className="underline">Cookies<br></br></p>
+A "cookie" is a file that is stored on your computer which allows us to better serve your shopping experience.<br></br> 
+This "cookie" can only be read by our website only and does not store any personal or sensitive information. <br></br>
+ 
       </p>
     </div>
   );
