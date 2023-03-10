@@ -11,7 +11,6 @@ import SearchBar from "./Components/SearchBar";
 import Refund from "./Components/Refund"
 import About from "./Components/About"
 import Terms from "./Components/Terms"
-import Privacy from "./Components/Privacy"
 function App() {
   return (
     <div className="App">
@@ -25,7 +24,7 @@ function App() {
      <Route exact path="/fashion" element={<Fashion/>} />
      <Route exact path="/searchBar" element={<SearchBar/>}/>
      <Route exact path="/about" element={<About/>} />
-     <Route exact path="/privacy" element={<Privacy/>} />
+     <Route exact path="/about" element={<About/>} />
      <Route exact path="/terms" element={<Terms/>} />
      <Route exact path="/refund" element={<Refund/>} />
     

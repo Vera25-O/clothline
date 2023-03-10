@@ -22,7 +22,7 @@ function Footer() {
           <NavLink to="/refund" exact="true">
             <p className="fp">Refund policy</p>
           </NavLink>
-          <NavLink to="/privacy" exact="true">
+          <NavLink to="/about" exact="true">
             <p className="fp">Privacy & Security</p>
           </NavLink>
           
