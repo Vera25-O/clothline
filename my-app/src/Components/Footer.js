@@ -48,8 +48,8 @@ function Footer() {
 
 
         <div className="iconic">
-        <a href="https://www.facebook.com/home.php" target={"_blank"}><img src={icon1} alt="facebook" className="icons" /></a>
-<a href="https://www.instagram.com/?utm_source=pwa_homescreen" target={"_blank"}><img src={icon2} alt="instagram" className="icons" /></a>
+        <a href="https://www.facebook.com/home.php" target={"_blank"} rel={"noreferrer"}><img src={icon1} alt="facebook" className="icons" /></a>
+<a href="https://www.instagram.com/?utm_source=pwa_homescreen" target={"_blank"} rel={"noreferrer"}><img src={icon2} alt="instagram" className="icons" /></a>
     
         
 </div>
